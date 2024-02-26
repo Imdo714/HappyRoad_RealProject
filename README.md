@@ -4,7 +4,8 @@
 ## 발표 자료
 [Happy_Road Project.pdf](https://github.com/Sangwonsdsd/HappyRoad_RealProject/files/14340389/Happy_Road.Project.pdf)
 
-*데이터베이스 (https://github.com/Imdo714/HappyRoad_RealProject/wiki)
+## 데이터
+데이터베이스 (https://github.com/Imdo714/HappyRoad_RealProject/wiki)
 
 ## 팀원
 | 이름 | 포지션 | Contact |
