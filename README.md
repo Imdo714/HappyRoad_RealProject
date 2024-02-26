@@ -5,7 +5,13 @@
 [Happy_Road Project.pdf](https://github.com/Sangwonsdsd/HappyRoad_RealProject/files/14340389/Happy_Road.Project.pdf)
 
 ## 팀원
-* 
+| 이름 | 포지션 | Contact |
+| --- | --- | --- |
+| 권두원 | CA |  |
+| 임도현 | IM | gusehdla@naver.com |
+| 최상원 | GM |  |
+| 박준 | SM |  |
+| 김효주 | DM |  |
   
 ## 소개
 * 고객 맞춤 여행지 추천과 이벤트 정보 제공을 통한 사용자의 국내 여행 계획에 도움을 제공합니다. 
