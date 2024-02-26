@@ -143,4 +143,5 @@
 6. ⑥ 작성된 후기 확인 가능(사용자가 작성한 후기 삭제 가능) <br/>
 
 ### ERD 테이블
+<a src="https://github.com/Imdo714/HappyRoad_RealProject/wiki">
 <img src="https://github.com/Sangwonsdsd/HappyRoad_RealProject/assets/91966029/2daa7759-b779-41c6-afe4-9458ac4aafe5" align="center" width="600" height="430"/> 
