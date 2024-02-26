@@ -4,6 +4,9 @@
 ## 발표 자료
 [Happy_Road Project.pdf](https://github.com/Sangwonsdsd/HappyRoad_RealProject/files/14340389/Happy_Road.Project.pdf)
 
+## 팀원
+* 
+  
 ## 소개
 * 고객 맞춤 여행지 추천과 이벤트 정보 제공을 통한 사용자의 국내 여행 계획에 도움을 제공합니다. 
 
